@@ -63,20 +63,16 @@ P1	        0	              5	            10	            10	          5	         
 P2	        1	              3	            13	            12	          9	            3
 
 3. Features of the Simulator
-✅ Real-Time Visualization:
-Gantt charts are dynamically updated as the processes execute.
-✅ User-Friendly Interface:
-Simple input fields for process details.
-✅ Performance Analysis:
-Provides efficiency metrics to compare scheduling algorithms.
-✅ Supports Preemptive & Non-Preemptive Scheduling:
-Allows a realistic simulation of different scenarios.
+✅ Real-Time Visualization: Gantt charts are dynamically updated as the processes execute.
+✅ User-Friendly Interface: Simple input fields for process details.
+✅ Performance Analysis: Provides efficiency metrics to compare scheduling algorithms.
+✅ Supports Preemptive & Non-Preemptive Scheduling: Allows a realistic simulation of different scenarios.
 
-4. Future Enhancements
+5. Future Enhancements
 Dynamic process addition (Add new processes at runtime).
 Multi-core CPU scheduling (Simulate modern processor behavior).
 AI-based algorithm selection (Choose the best algorithm dynamically based on workload).
 Cloud-based deployment (Run simulations online without installation).
 
-5. Conclusion
+6. Conclusion
 The Intelligent CPU Scheduler Simulator provides a powerful interactive learning experience for understanding CPU scheduling. By implementing various algorithms and offering real-time insights, the project helps users visualize scheduling behavior and compare algorithm efficiency. Future enhancements can make it even more dynamic and applicable in real-world systems.
